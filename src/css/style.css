@@ -7591,11 +7591,11 @@ h1, h2, h3, h4, h5,
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1, #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
           margin: 0;
           padding: 0;
-          color: #fff;
+          color: var(--gray-dark);
           text-transform: uppercase;
           line-height: 1.2; }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h1 {
-          color: #fff; }
+          color: var(--gray-dark); }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner .head-1 {
           font-weight: 700;
           font-size: 60px;
